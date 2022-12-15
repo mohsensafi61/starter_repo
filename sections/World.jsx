@@ -14,9 +14,9 @@ const World = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
-      <TypingText title="People On the world" textStyles="text-center" />
+      <TypingText title="مدرن ترین UI ها " textStyles="text-center" />
       <TitleText
-        title={<>Track friends around you and invite them to play</>}
+        title={<>برای شما که لایق آن هستید</>}
         textStyles="text-center"
       />
         

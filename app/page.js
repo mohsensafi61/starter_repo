@@ -21,7 +21,7 @@ const Page = () => (
       <Explore />
     </div>
 
-    <div className="relative">
+    <div dir="ltr" className="relative">
       <GetStarted />
       <div className="gradient-04 z-0" />
       <WhatsNew />

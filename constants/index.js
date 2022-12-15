@@ -28,7 +28,7 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   "یافتن ایده",
-  "تماس یا من",
+  "تماس با من",
   "تحویل در سریع ترین زمان",
 ];
 

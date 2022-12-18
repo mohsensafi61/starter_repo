@@ -28,7 +28,7 @@ const GetStarted = () => (
 
       <motion.div
         variants={fadeIn("left", "tween", 0.2, 1)}
-        className="flex-[0.75] flex justify-center flex-col"
+        className="flex-[0.75] flex justify-center text-center flex-col"
       >
         <TypingText title="چطور سفارش پروژه بدم؟" />
         <TitleText title={<>شروع فقط با چند کلیک</>} />

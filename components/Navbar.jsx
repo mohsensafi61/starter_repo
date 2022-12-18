@@ -21,7 +21,7 @@ const Navbar = () => (
       />
 
       <h2 className="font-extrabold text-[24px] leading-[30px] text-white ">
-        پروژه های من
+        محسن صافی
       </h2>
 
       <img src="/menu.svg" alt='menu' className="w-[24px]

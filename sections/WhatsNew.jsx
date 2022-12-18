@@ -17,7 +17,7 @@ const WhatsNew = () => (
     >
       <motion.div
         variants={fadeIn("right", "tween", 0.2, 1)}
-        className="flex-[0.75] flex justify-center flex-col"
+        className="flex-[0.75] flex justify-center text-center flex-col"
       >
         <TypingText title="تکنولوژی های مورد استفاده" />
         <TitleText title={<>چه زبان ها و فریمورک هایی استفاده میکنم</>} />
